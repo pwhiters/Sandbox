@@ -1,0 +1,1 @@
+This is branch2.txt added in thr local branch1
