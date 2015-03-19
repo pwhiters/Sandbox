@@ -140,6 +140,7 @@ public class Main {
 
         System.out.println("Add new line for Hello My World!!!!");
         System.out.println("Just added this new line -- Add new line for Hello My World!!!!");
-        System.out.println("3rd entyr -- Just added this new line -- Add new line for Hello My World!!!!");
+        System.out.println("3rd entry -- Just added this new line -- Add new line for Hello My World!!!!");
+        System.out.println("4th entry entered on the local machine - now (add/commit/push to remote) new line for Hello My World!!!!");
     }
 }
