@@ -142,5 +142,6 @@ public class Main {
         System.out.println("Just added this new line -- Add new line for Hello My World!!!!");
         System.out.println("3rd entry -- Just added this new line -- Add new line for Hello My World!!!!");
         System.out.println("4th entry entered on the local machine - now (add/commit/push to remote) new line for Hello My World!!!!");
+        ystem.out.println("5th entry entered on the remote machine - now on local machine (fetch, merge) then verify this line is available on the local machine");
     }
 }
