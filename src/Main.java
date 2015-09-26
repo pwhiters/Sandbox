@@ -9,7 +9,7 @@ import java.util.Date;
 
 public class Main {
 
-    final static String filename = "/Users/phillip.whiters/jcgFile.txt";
+    final static String filename = "/Users/pwhiters/jcgFile.txt";
 
 
     public static void main(String[] args) {
